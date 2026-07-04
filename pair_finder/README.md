@@ -1,4 +1,4 @@
-# Two Sum Problem
+# Pair Finder Problem
 
 ## Problem
 Given a list of integers `nums` and an integer `target`, find two numbers in the list such that they add up to the target.
